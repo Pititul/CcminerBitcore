@@ -12,7 +12,6 @@ A part of the recent algos were originally wrote by [djm34](https://github.com/d
 
 This variant was tested and built on Linux (ubuntu server 14.04) and VStudio 2013 on Windows 7.
 
-Note that the x86 releases are generally faster than x64 ones on Windows.
 
 About source code dependencies
 ------------------------------
